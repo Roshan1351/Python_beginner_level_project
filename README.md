@@ -12,6 +12,10 @@ This repository contains beginner-friendly Python projects to practice programmi
    - Classic two-player console-based Tic-Tac-Toe game.  
    - Designed for interactive play between friends.
 
+3. **Hangman Game**  
+   - A fun word-guessing game where the player tries to uncover a hidden word letter by letter.  
+   - Includes limited attempts, repeated guess prevention, and dynamic word reveal.  
+   - Words are randomly chosen from a predefined list.
 ---
 
 ## ⚙️ How to Run
